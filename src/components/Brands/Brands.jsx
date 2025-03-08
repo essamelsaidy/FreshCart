@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import style from './Brands.module.css'
 import axios from 'axios'
 import { Link } from 'react-router-dom';
 export default function Brands() {

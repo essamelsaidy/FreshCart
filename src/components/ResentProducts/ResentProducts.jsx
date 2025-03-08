@@ -1,4 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
+import stle from "./ResentProducts.module.css";
 import axios from "axios";
 import { Link } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";

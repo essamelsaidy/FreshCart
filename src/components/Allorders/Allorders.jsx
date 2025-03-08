@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import style from "./AllOrders.module.css";
 import axios from "axios";
 
 export default function AllOrders() {

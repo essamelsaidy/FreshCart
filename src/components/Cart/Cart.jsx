@@ -1,4 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
+import style from "./Cart.module.css";
 import { CartContext } from "../../context/CartContext";
 import toast from "react-hot-toast";
 import { Link } from "react-router-dom";

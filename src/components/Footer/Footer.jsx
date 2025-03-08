@@ -1,4 +1,5 @@
 import React from "react";
+import style from "./Footer.module.css";
 import paypal from "../../assets/paypal.png";
 import amazon from "../../assets/amazonpay.png";
 import appStore from "../../assets/appStore.png";
