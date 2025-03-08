@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import style from './Categories.module.css'
 import logo from '../../assets/freshcart-logo.svg'
 import axios from 'axios'
 import { Link } from 'react-router-dom'
